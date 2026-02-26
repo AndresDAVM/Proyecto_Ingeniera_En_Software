@@ -1,0 +1,15 @@
+SIPREU/
+│
+├── backend/
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── triaje.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── README.md
