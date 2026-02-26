@@ -13,3 +13,5 @@ Cada operador clasifica a su manera:
 uno dice que es urgente
 otro que no tanto
 ➡ No hay una regla clara para todos.
+Las emergencias se atienden sin un orden automático
+No existe un sistema que diga cuál va primero y cuál después.
