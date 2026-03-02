@@ -2,7 +2,7 @@ SIPREU (Sistema de Preorizacion en Urgencias)
 
 Problemas
 
-1.Mala optimizacion en el triage del sistema de urgencias (Triaje:Es un sistema de seleccion y clasificacion rapida de pacientes en urgencias, según su gravedad necesidades).
+1.Mala optimizacion en el triaje del sistema de urgencias (Triaje:Es un sistema de seleccion y clasificacion rapida de pacientes en urgencias, según su gravedad necesidades).
 2.Falta de clasificación ordenada y segura de las historias clínicas de los pacientes lo que puede generar riesgos en la protección de datos personales y posibles erroes en gestión medica. 
 
 3.Saturación de líneas y servicios de emergencia en situaciones críticas:
