@@ -69,6 +69,11 @@ Médicos Encargados de consultar la lista priorizada de pacientes y atender los 
 
 Personal administrativo Responsable del registro inicial de los pacientes en el sistema.
 
+Diagramas UML (propuesto)
+
+Diagrama de Casos de uso
+
+<img width="1920" height="1080" alt="Tablero de Equipo de Diagrama de Caso de Uso en Estilo de Bloques de Color Espaciados en Amarillo Rosa y Verde" src="https://github.com/user-attachments/assets/4be6cc8d-e1f2-458f-87de-5a35bc09e79a" />
 
 Mockups (protopipos de interfaz)
 
@@ -88,7 +93,7 @@ Pantalla 4: Panel del Médico
 
 ![Green Gray Simple Survey Form A4 Document (1)](https://github.com/user-attachments/assets/dab214e0-d7c7-402b-91af-57eedf88ad11)
 
-<img width="1920" height="1080" alt="Tablero de Equipo de Diagrama de Caso de Uso en Estilo de Bloques de Color Espaciados en Amarillo Rosa y Verde" src="https://github.com/user-attachments/assets/4be6cc8d-e1f2-458f-87de-5a35bc09e79a" />
+
 
 Soluciones 
 
