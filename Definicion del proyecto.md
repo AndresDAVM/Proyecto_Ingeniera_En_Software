@@ -43,6 +43,10 @@ Objetivos específicos
 
 ![Green Gray Simple Survey Form A4 Document](https://github.com/user-attachments/assets/da671b1e-ac14-4785-8ec6-0d7f0e789a5c)
 
+![Brown White Simple Weekly Personal Growth Tracker List](https://github.com/user-attachments/assets/49687be1-9a79-4739-8c2d-6a942208d757)
+
+![Green Gray Simple Survey Form A4 Document (1)](https://github.com/user-attachments/assets/dab214e0-d7c7-402b-91af-57eedf88ad11)
+
 Soluciones 
 
 1.Con un simulador de una sala de emergencias buscamos preparar al personal de salud y Instituciones e salud para distintos casos de emergencias en los que se haga un correcto manejo de este, clasificando a los pacientes según su edad, síntomas y la gravedad del caso presentado, con esto se busca fácilitar de forma más clara los procesos médicos que se podrán tomar en cuenta dependiendo del grado de emergencia.
