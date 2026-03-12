@@ -88,6 +88,8 @@ Pantalla 4: Panel del Médico
 
 ![Green Gray Simple Survey Form A4 Document (1)](https://github.com/user-attachments/assets/dab214e0-d7c7-402b-91af-57eedf88ad11)
 
+<img width="1920" height="1080" alt="Tablero de Equipo de Diagrama de Caso de Uso en Estilo de Bloques de Color Espaciados en Amarillo Rosa y Verde" src="https://github.com/user-attachments/assets/4be6cc8d-e1f2-458f-87de-5a35bc09e79a" />
+
 Soluciones 
 
 1.Con un simulador de una sala de emergencias buscamos preparar al personal de salud y Instituciones e salud para distintos casos de emergencias en los que se haga un correcto manejo de este, clasificando a los pacientes según su edad, síntomas y la gravedad del caso presentado, con esto se busca fácilitar de forma más clara los procesos médicos que se podrán tomar en cuenta dependiendo del grado de emergencia.
