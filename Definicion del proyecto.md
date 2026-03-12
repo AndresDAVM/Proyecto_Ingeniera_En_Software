@@ -1,6 +1,7 @@
 SIPREU (Sistema de Preorizacion en Urgencias)
 
 Introducción
+
 Los servicios de urgencias hospitalarias suelen enfrentar problemas relacionados con la saturación de pacientes, largos tiempos de espera y dificultades para priorizar correctamente los casos más críticos. 
 El proceso de triage es fundamental para clasificar a los pacientes según la gravedad de su condición, permitiendo que aquellos con mayor riesgo reciban atención inmediata.
 Sin embargo, en muchos hospitales este proceso todavía depende completamente de evaluaciones manuales, lo que puede generar errores humanos, demoras en la atención y falta de estandarización en la clasificación de los pacientes.
