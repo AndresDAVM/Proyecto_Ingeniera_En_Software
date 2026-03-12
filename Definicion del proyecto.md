@@ -39,7 +39,9 @@ Objetivos específicos
 •	Diseñar los modelos del sistema utilizando diagramas UML (Unified Modeling Language o Lenguaje Unificado de Modelado).
 
 •	Proponer prototipos de interfaz que faciliten el uso del sistema por parte del personal médico.
+![Documento A4 Ficha de Registro Tabla Minimalista Sencillo Beige](https://github.com/user-attachments/assets/b70c1651-5b8b-482c-b041-97bf940e7b76)
 
+![Green Gray Simple Survey Form A4 Document](https://github.com/user-attachments/assets/da671b1e-ac14-4785-8ec6-0d7f0e789a5c)
 
 Soluciones 
 
