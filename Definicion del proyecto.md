@@ -94,5 +94,36 @@ Soluciones
 
 1.Con un simulador de una sala de emergencias buscamos preparar al personal de salud y Instituciones e salud para distintos casos de emergencias en los que se haga un correcto manejo de este, clasificando a los pacientes según su edad, síntomas y la gravedad del caso presentado, con esto se busca fácilitar de forma más clara los procesos médicos que se podrán tomar en cuenta dependiendo del grado de emergencia.
 
-UML (Investigacion)
+UML (Investigación)
+¿Qué es ?
+Es un estándar para visualizar, especificar, construir y documentar los componentes de un sistema de software. Son unas reglas gráficas para representar cómo se estructura y se comporta un sistema. Para la clasificación de los diagramas existen varios tipos y se agrupan en dos categorías principales: 
+
+Diagrama Estructural : Se centran en que elementos componen el sistema (Parte estática).
+Clases: Muestra las clases , sus atributos, métodos y cómo se relacionan entre sí.
+Objetos: Representa una instancia específica de las clases en un momento determinado.
+Componentes : Organización de módulos o librerías. 
+Despliegue : Muestra el hardware y el software donde se instalará el sistema.  
+
+Diagrama de Comportamiento :  Este se centra en cómo reacciona o evoluciona el sistema ante eventos (Parte dinámica )
+ Casos de uso : Describe las funciones del sistema desde el punto de vista del usuario
+Interacción: Visión global de interacciones.
+Estados : Muestra el ciclo de vida de un objeto y cómo cambia según los eventos.
+
+Diagrama de Casos de uso
+
+Se utiliza durante el análisis de requisitos para representar que hace el sistema, sin entrar en detalles técnicos de cómo lo hace.
+
+ Elementos principales:
+
+Actor: Es cualquier entidad externa que interactúa con el sistema (usuario, otro software, hardware).
+Caso de Uso: Es una función específica que el actor puede realizar (ej. "Iniciar sesión", "Consultar saldo").
+Límite del Sistema: Un recuadro que encierra los casos de uso para separar lo que está dentro de la aplicación de lo que es externo.
+
+Diagrama de Interacción
+
+ Es un tipo de diagrama de comportamiento que se enfoca en el intercambio de mensajes entre los objetos para lograr un objetivo funcional. Los dos más importantes son:
+Diagrama de secuencia
+Diagrama de comunicación
+
+
 
