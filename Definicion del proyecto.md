@@ -69,6 +69,55 @@ Médicos Encargados de consultar la lista priorizada de pacientes y atender los 
 
 Personal administrativo Responsable del registro inicial de los pacientes en el sistema.
 
+# Requisitos del sistema
+
+## Requisitos funcionales
+
+RF1. El sistema debe permitir registrar pacientes.
+
+RF2. El sistema debe permitir registrar signos vitales del paciente.
+
+RF3. El sistema debe permitir registrar síntomas reportados.
+
+RF4. El sistema debe clasificar automáticamente a los pacientes según su nivel de urgencia.
+
+RF5. El sistema debe mostrar una lista de pacientes priorizados.
+
+RF6. El sistema debe permitir actualizar el estado del paciente.
+
+## Requisitos no funcionales
+
+RNF1. El sistema debe ser fácil de usar para el personal médico.
+
+RNF2. El sistema debe garantizar la seguridad de los datos de los pacientes.
+
+RNF3. El sistema debe responder rápidamente ante consultas del usuario.
+
+RNF4. El sistema debe funcionar en computadores del hospital o tablets clínicas.
+
+
+# Historias de usuario
+
+Historia de usuario 1
+
+Como enfermero de triage quiero registrar los signos vitales del paciente para determinar su nivel de urgencia.
+
+Historia de usuario 2
+
+Como médico quiero ver una lista de pacientes ordenada por prioridad para atender primero los casos más críticos.
+
+Historia de usuario 3
+
+Como personal administrativo quiero registrar los datos básicos del paciente para iniciar su proceso de atención.
+
+
+# Metodología de desarrollo
+
+Para el desarrollo del sistema se propone utilizar una metodología ágil, ya que permite adaptarse a cambios en los requisitos y desarrollar el sistema de forma iterativa.
+
+El desarrollo puede organizarse en ciclos de trabajo donde se diseñen, prueben y mejoren progresivamente las funcionalidades del sistema.
+
+
 Conclusiones
 
 El diseño de una aplicación de apoyo para el proceso de triage puede contribuir significativamente a mejorar la gestión de pacientes en los servicios de urgencias. Mediante la digitalización del registro de pacientes y la priorización automatizada de casos, es posible optimizar los tiempos de atención y apoyar la toma de decisiones del personal médico.
@@ -139,50 +188,3 @@ Diagrama de secuencia
 Diagrama de comunicación
 
 
-# Requisitos del sistema
-
-## Requisitos funcionales
-
-RF1. El sistema debe permitir registrar pacientes.
-
-RF2. El sistema debe permitir registrar signos vitales del paciente.
-
-RF3. El sistema debe permitir registrar síntomas reportados.
-
-RF4. El sistema debe clasificar automáticamente a los pacientes según su nivel de urgencia.
-
-RF5. El sistema debe mostrar una lista de pacientes priorizados.
-
-RF6. El sistema debe permitir actualizar el estado del paciente.
-
-## Requisitos no funcionales
-
-RNF1. El sistema debe ser fácil de usar para el personal médico.
-
-RNF2. El sistema debe garantizar la seguridad de los datos de los pacientes.
-
-RNF3. El sistema debe responder rápidamente ante consultas del usuario.
-
-RNF4. El sistema debe funcionar en computadores del hospital o tablets clínicas.
-
-
-# Historias de usuario
-
-Historia de usuario 1
-
-Como enfermero de triage quiero registrar los signos vitales del paciente para determinar su nivel de urgencia.
-
-Historia de usuario 2
-
-Como médico quiero ver una lista de pacientes ordenada por prioridad para atender primero los casos más críticos.
-
-Historia de usuario 3
-
-Como personal administrativo quiero registrar los datos básicos del paciente para iniciar su proceso de atención.
-
-
-# Metodología de desarrollo
-
-Para el desarrollo del sistema se propone utilizar una metodología ágil, ya que permite adaptarse a cambios en los requisitos y desarrollar el sistema de forma iterativa.
-
-El desarrollo puede organizarse en ciclos de trabajo donde se diseñen, prueben y mejoren progresivamente las funcionalidades del sistema.
